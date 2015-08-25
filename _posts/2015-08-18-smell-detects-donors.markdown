@@ -6,6 +6,7 @@ tags: [olfactory, senses, smell, transplant, health]
 date: 2015-08-18
 comments: true
 landing: true
+description: Using only the uniqueness of a individual's sense of smell, researchers are able to find potential transplant donors.
 ---
 
 ## Researchers discover a new way of discovering bone marrow transplants matches by using only their sense of smell!
