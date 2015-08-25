@@ -5,6 +5,7 @@ date: 2015-08-05
 comments: true
 tags: [protein folding, simulations, flourescence, molecular dynamics]
 landing: true
+description: Experiments on protein folding have been getting closer to simulations and this study makes another small step towards their unification.
 ---
 
 [Prigozhin et al. has brought simulations and experiments of protein dynamics closer together than ever before.](http://www.pnas.org/content/112/26/7966.full) They do this by creating a clever new protein that gives more detailed experimental insight and simulations on a [state-of-the-art molecular dynamics supercomputer](https://en.wikipedia.org/wiki/Anton_(computer)). Their insights add another brick into the path that scientists have been building for decades to bridge protein experiments and simulations. The only way to do this are through advances like this paper - creating experiments that are faster than ever before while creating simulations that can simulate reality for longer than ever before.
