@@ -6,6 +6,7 @@ date: 2015-07-14
 tags: [mortality, worms, human, health, hospitalization, lifespan]
 comments: true
 landing: true
+desecription: Researchers use experiments with worms to help define mortality and define a new term, gerospan, to account for the time in life that is less than adequete.
 ---
 
 It's very bold to invent a new word. [Its even more bold to invent a new word and add that as a *keyword of your science article!*](http://dx.doi.org/10.1073/pnas.1412192112) That's exactly what Ankita Bansala, Lihua  Zhua, Kelvin Yena, and Heidi Tissenbaumam did in their paper<sup>1</sup> on which they question the value of the term "lifespan" and probe key assumptions using worms. Their newly invented term, *gerospan*, shows up about 34 times and, though they don't say exactly where it comes from, it seems to be a mashup of the more common "lifespan" with the department of one of the authors (*Gerontology*, which means - literally - the study of old people).
