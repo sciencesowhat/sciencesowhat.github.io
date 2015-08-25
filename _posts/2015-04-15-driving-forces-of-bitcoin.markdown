@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to evaluate the driving forces behind Bitcoin?
-date: 2015-08-20
+date: 2015-04-15
 comments: true
 tags: [bitcoin, wavelets, prediction]
 landing: true
