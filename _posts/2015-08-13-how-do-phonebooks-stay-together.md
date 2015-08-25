@@ -14,6 +14,8 @@ It was first thought that the mechanism is due to the friction between interleav
 
 > The trapping mechanism results from a simple conversion of the traction force to an orthogonal component, which enhances the load and thus the friction.
 
+![Chinese finger trap](/assets/images/finger_trap.svg)
+
 # So what?
 
 It's important to correct ourselves when we mispeak and to re-interpret theories when new evidence presents itself. The previous explaination of the phonebooks ammends itself to this. The previous assertion and accepted answer was that the increase in the number of pages increased the frictional force. While this is true, the researchers noticed that friction cannot explain the strength because the gravitational forces that can apply orthogonal forces do not change when the books are flipped to their side (where the friction is changed).
