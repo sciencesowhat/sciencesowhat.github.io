@@ -2,7 +2,7 @@
 layout: post
 title: How is the brain like a ball of crumpled paper?
 tags: [brain, neurons, physics]
-date: 2015-08-19
+date: 2015-07-03
 comments: true
 landing: true
 description: The folds of the brain were once thought to be evolutionary conserved, but now scientists have found that the folding may just be general physics at work.
