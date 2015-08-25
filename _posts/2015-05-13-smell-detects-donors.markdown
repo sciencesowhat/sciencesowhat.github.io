@@ -3,7 +3,7 @@ layout: post
 permalink: how-can-people-be-identified-by-their-sense-of-smell/index.html
 title: How can potential transplant donors be identified by their sense of smell?
 tags: [olfactory, senses, smell, transplant, health]
-date: 2015-08-18
+date: 2015-05-13
 comments: true
 landing: true
 description: Using only the uniqueness of a individual's sense of smell, researchers are able to find potential transplant donors.
