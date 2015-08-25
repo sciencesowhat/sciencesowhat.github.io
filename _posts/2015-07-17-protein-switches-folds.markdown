@@ -9,9 +9,11 @@ landing: true
 description: Though most proteins have a single structure, a protein has been found to have two completely different structures that are crucial to the workings of the internal clock.
 ---
 
-Proteins are central to biology. For the most part, proteins in the body are crucial for catalyzing reactions that carry out almost all of our biologial processes. For a protein to be useful, after it's made by a ribosome, it needs to *fold* into a 3-dimensional structure that is unique to its sequence. Its been widely thought that [every unique sequence corresponds to a single unique structure](https://en.wikipedia.org/wiki/Anfinsen%27s_dogma). However, in biology, there are always exceptions to the rule.
+Proteins are central to biology. For the most part, proteins in the body are crucial for catalyzing reactions that carry out almost all of our biologial processes. For a protein to be useful, after it's made by a ribosome, it needs to *fold* into a 3-dimensional structure that is unique to its sequence. 
 
-[Yong-Gang Chang and colleagues report in a recent article in *Science*](http://dx.doi.org/10.1126/science.1260031) that a protein responsible for timing the internal circadian clock has **two distinct folds for the same sequence**, and that both of these folds are crucial for its functioning! [1]
+![Protein folding occurs before a protein can be useful](/assets/images/protein_folding.svg)
+
+Its been widely thought that [every unique sequence corresponds to a single unique structure](https://en.wikipedia.org/wiki/Anfinsen%27s_dogma). However, in biology, there are always exceptions to the rule. Now [Yong-Gang Chang and colleagues report in a recent article in *Science*](http://dx.doi.org/10.1126/science.1260031) that a protein responsible for timing the internal circadian clock has **two distinct folds for the same sequence**, and that both of these folds are crucial for its functioning! [1]
 
 
 The researchers study the circadian clock of cyanobacteria. This internal clock is quite simple as it only requires three proteins to function by itself. These three proteins have roles in activating and repressing one another at time intervals that follow the Earth's night-day cycle. These proteins are also capable of interacting with other proteins to cascade events to control time-specific biological functions in the cyanobacteria.
