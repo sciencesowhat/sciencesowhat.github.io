@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How do you make a brain from scratch?
-date: 2015-08-02
+date: 2015-06-05
 tags: [brain, neurons, thought, human, jellyfish, evolution]
 comments: true
 landing: true
