@@ -5,6 +5,7 @@ tags: [bitcoin, currency, explainations]
 date: 2015-08-16
 comments: true
 landing: true
+description: Bitcoin is a simple enough concept - a decentralized currency that solves the problems of decentralization by instigating all the rules of a monetary system.
 ---
 
 ## Why isn't USD good enough anymore?
