@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How does a small difference between simulation and experiments of proteins makes a big difference?
-date: 2015-08-05
+date: 2015-06-15
 comments: true
 tags: [protein folding, simulations, flourescence, molecular dynamics]
 landing: true
