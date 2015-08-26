@@ -14,6 +14,7 @@ This paper shows that the crumpling of our brain is much simpler than we thought
 ## So what?
 This paper shows that the crumpling of our brain is much simpler than we thought. What sets humans and other mammals apart is the ability to crumple our brains into our heads - by means of *cortical folding*. It had long been theorized that the folding - which is different for different animals - has something to do with ontology or evolution to control the number of neurons in parts of the brain. Now, it seems, its just basic physics!
 
+![Crumpled paper has a lot more to do with brains than we previously thought](/assets/images/curmpled_paper.svg)
 
 The authors use datasets from about 14 papers that include all sorts of information including the number of cortial neurons, the cortial surface areas, brain volume, brain mass, thickness, etc. They find some correlation between these variables, but often with many outliers and generally low correlation.
 

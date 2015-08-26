@@ -10,6 +10,7 @@ description: Neurons recently found in jellyfish have made scientists rethink th
 
 No one knows where neurons, the basic of human thought, come from. They are thought to have evolved once throughout the animal kingdom and perfected ever since. However, [the newly revealed DNA sequencing of a comb jelly called "Pacific sea gooseberry"](http://www.nature.com/nature/journal/v510/n7503/full/nature13400.html)<sup>1</sup> indicates this is not the case, as it has evolved its own neural system *independently* of any other sea jelly. 
 
+![Where do brains come from](/assets/images/brain.svg))
 
 ## So what?
 

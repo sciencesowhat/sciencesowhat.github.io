@@ -10,6 +10,8 @@ description: Cryptocurrencies are still fairly new, so it will be important to k
 
 A recent article published in *PloS ONE* attempts to figure out [the origin of the rise in value of bitcoin](http://dx.doi.org/10.1371/journal.pone.0123923). [1] The author, Ladislav Kristoufek, dissects the most probable sources of Bitcoin valuation influences using a special technique - [cross wavelet transforms](http://www.glaciology.net/wavelet-coherence). [This technique](http://www.glaciology.net/Home/PDFs/Announcements/Application-of-the-cross-wavelet-transform-and-wavelet-coherence-to-geophysical-time-series-) decomposes signals into the frequency domain and allows one to look at correlations between two sets of time-series data over various cycle lengths (*e.g.* daily or monthly or yearly) *over time*. If you don't know how Bitcoin works, check out my [recent post](http://sciencesowhatwhocares.xyz/how-does-bitcoin-work-or-yet-another-description-of-how-bitcoin-works/) about it!
 
+![Stock markets flucuate - but why?](/assets/images/stocks.svg)
+
 ## So what?
 
 Bitcoin has been purported to be a very speculative asset and not as much a standard financial asset. Using cross wavelet transforms Kristoufek analyzes correlations between standard factors like Bitcoin price and Trade-Exchange ratio, Bitcoin supply, trade volume, hashrate, difficulty, number of trade transactions, Financial stress index, and the price of Gold. The researcher also investigates speculative properties, like involving correlations between Bitcoin and Google or Wikipedia searches.
