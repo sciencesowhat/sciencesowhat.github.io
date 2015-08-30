@@ -11,3 +11,10 @@
 [Nature article](http://www.nature.com/news/scientific-method-statistical-errors-1.14700)
 
 Nuzzo, Regina. "Statistical errors." Nature 506.7487 (2014): 150-152.
+
+
+## P-hacking
+
+There are [an awful lot of papers that have P-values close to 0.05](http://dx.doi.org/10.1037/a0033242)
+
+Simonsohn, Uri, Leif D. Nelson, and Joseph P. Simmons. "P-curve: A key to the file-drawer." Journal of Experimental Psychology: General 143.2 (2014): 534.
