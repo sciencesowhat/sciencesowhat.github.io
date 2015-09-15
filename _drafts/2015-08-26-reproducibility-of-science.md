@@ -20,3 +20,9 @@ There are [an awful lot of papers that have P-values close to 0.05](http://dx.do
 Simonsohn, Uri, Leif D. Nelson, and Joseph P. Simmons. "P-curve: A key to the file-drawer." Journal of Experimental Psychology: General 143.2 (2014): 534.
 
 [Media outplays the importance of irrelevant research](http://io9.com/i-fooled-millions-into-thinking-chocolate-helps-weight-1707251800?commerce_insets_disclosure=on&utm_expid=66866090-48.Ej9760cOTJCPS_Bq4mjoww.2)
+
+## Intrinsic falsibility potential of a hypothesis
+
+[My proposal is based upon an asymmetry between verifiability and falsifiability; an asymmetry which results from the logical form of universal statements. For these are never derivable from singular statements, but can be contradicted by singular statements.](https://en.wikipedia.org/wiki/Falsifiability) - Karl Popper
+
+[Strengthening model refutation](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0138212)
