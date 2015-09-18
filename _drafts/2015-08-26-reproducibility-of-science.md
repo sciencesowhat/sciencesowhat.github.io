@@ -21,6 +21,8 @@ Simonsohn, Uri, Leif D. Nelson, and Joseph P. Simmons. "P-curve: A key to the fi
 
 [Media outplays the importance of irrelevant research](http://io9.com/i-fooled-millions-into-thinking-chocolate-helps-weight-1707251800?commerce_insets_disclosure=on&utm_expid=66866090-48.Ej9760cOTJCPS_Bq4mjoww.2)
 
+[Good synopsis of Fisher's original intention](http://www.pnas.org/content/112/37/E5114.full)
+
 ## Intrinsic falsibility potential of a hypothesis
 
 [My proposal is based upon an asymmetry between verifiability and falsifiability; an asymmetry which results from the logical form of universal statements. For these are never derivable from singular statements, but can be contradicted by singular statements.](https://en.wikipedia.org/wiki/Falsifiability) - Karl Popper
